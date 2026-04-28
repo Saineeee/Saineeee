@@ -6,8 +6,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ---
 
-## 👀 Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=Saineeee&color=blueviolet&style=for-the-badge)
+
 
 ---
 
@@ -17,3 +16,9 @@
          alt="Buy Me A Coffee" 
          style="height: 50px !important; width: 180px !important;" >
 </a>
+
+
+---
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Saineeee&color=6e7681&style=for-the-badge)
