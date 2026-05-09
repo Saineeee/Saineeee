@@ -1,4 +1,3 @@
-
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -6,7 +5,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ---
 
-
+<img width="500" height="500" alt="9e22d772441e55638ae3a8d0bf2fe1ad" src="https://github.com/user-attachments/assets/e99ee92e-32c0-4ab6-bff2-766e9d2a440b" />
 
 ---
 
